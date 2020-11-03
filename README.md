@@ -1,11 +1,11 @@
 ## ⚡ Hi there 
 ### Nice to See You.
-I'm Hasan Misbah, Web Developer developer from  Sylhet, Bangladesh.
+I'm Hasan Misbah, Web Developer from  Sylhet, Bangladesh.
 
 
 <p align="center">
 <a href="https://github.com/hasanmisbah">
-<img src="https://github-readme-stats.vercel.app/api?username=hasanmisbah&show_icons=true&include_all_commits=true&cache_seconds=3200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hasanmisbah&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=3200"/>
 </a>
 </p>
 
