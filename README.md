@@ -1,27 +1,16 @@
-## ⚡ Hi there 
+## ⚡ Hi there
 ### Nice to See You.
 I'm Hasan Misbah, Web Developer from  Sylhet, Bangladesh.
 
 
 <p align="center">
-<a href="https://github.com/hasanmisbah">
+<!-- <a href="https://github.com/hasanmisbah">
 <img src="https://github-readme-stats.vercel.app/api?username=hasanmisbah&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=3200"/>
-</a>
-</p>
-
-
-<p align="center">
-<a href="https://github.com/hasanmisbah">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hasanmisbah&cache_seconds=3200"/>
-</a>
-</p>
-
-<p align="center">
+</a> -->
 <a href="https://github.com/hasanmisbah">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmisbah&layout=compact&cache_seconds=3200"/>
 </a>
 </p>
-
 
 
 <p align="center">
@@ -31,21 +20,21 @@ I'm Hasan Misbah, Web Developer from  Sylhet, Bangladesh.
 
 ## 🔭 I’m currently working on ...
 - [x] WordPress
+- [x] Laravel
 - [x] VueJS
 - [x] PHP
-- [x] JavaScript 
+- [x] JavaScript
 - [x] jQuery
+
 
 ## 🌱 I’m currently learning ...
 - [x] Laravel
 - [ ] laravel-livewire
 - [ ] TDD
 
-## 💬 Ask me about ...
-- [x] Javascript
-- [x] WordPress
-- [x] VueJS
-- [x] NuxtJS
+## 💬 Ask me anything ...
+### <a href="https://github.com/hasanmisbah/hasanmisbah/issues">Here</a>
+
 
 
 
