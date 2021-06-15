@@ -1,30 +1,55 @@
 ## ⚡ Hi there
-### Nice to See You.
+### Nice to Meet You.
 I'm Hasan Misbah, Web Developer from  Sylhet, Bangladesh.
 
+## Languages and Tools i use
 
-<p align="center">
+
+## 🔭 Language tools i use
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <p align="center"> -->
 <!-- <a href="https://github.com/hasanmisbah">
 <img src="https://github-readme-stats.vercel.app/api?username=hasanmisbah&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=3200"/>
 </a> -->
-<a href="https://github.com/hasanmisbah">
+<!-- <a href="https://github.com/hasanmisbah">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmisbah&layout=compact&cache_seconds=3200"/>
 </a>
-</p>
+</p> -->
 
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/hasanmisbah"><img title="Github" src="https://img.shields.io/badge/Github-hasanmisbah-blue?style=for-the-badge&logo=github"></a>
 <a href="https://twitter.com/hasanmisbah"><img title="twitter" src="https://img.shields.io/badge/twitter-hasanmisbah-blue?style=for-the-badge&logo=twitter"></a>
-</p>
+</p> -->
 
-## 🔭 I’m currently working on ...
-- [x] WordPress
-- [x] Laravel
-- [x] VueJS
+<!-- ## 🔭 I’m currently working on ...
 - [x] PHP
 - [x] JavaScript
-- [x] jQuery
+- [x] Laravel
+- [x] VueJS
+- [x] WordPress
+- [x] jQuery -->
 
 
 ## 🌱 I’m currently learning ...
