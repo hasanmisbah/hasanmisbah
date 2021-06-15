@@ -2,7 +2,7 @@
 ### Nice to Meet You.
 I'm Hasan Misbah, Web Developer from  Sylhet, Bangladesh.
 
-## Languages and Tools i use
+<!-- ## Languages and Tools i use -->
 
 
 ## 🔭 Language tools i use
