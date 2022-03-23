@@ -18,16 +18,6 @@ I'm Hasan Misbah, Web Developer from  Sylhet, Bangladesh.
 
 
 
-
-
-
-
-
-
-
-
-
-
 <!-- <p align="center"> -->
 <!-- <a href="https://github.com/hasanmisbah">
 <img src="https://github-readme-stats.vercel.app/api?username=hasanmisbah&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=3200"/>
@@ -58,6 +48,13 @@ I'm Hasan Misbah, Web Developer from  Sylhet, Bangladesh.
 
 ## 💬 Ask me anything ...
 ### <a href="https://github.com/hasanmisbah/hasanmisbah/issues">Here</a>
+
+
+
+## 📫 How to reach me:
+ - [E-mail](mailto:knock@hasanmisbah.com)
+ - [Linked in](https://linkedin.com/in/hasanmisbah)
+ - [Twitter](https://twitter.com/hasanmisbah01)
 
 
 
