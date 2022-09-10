@@ -55,19 +55,19 @@ Just another programmer who forgot to sleep last night
 - [x] jQuery -->
 
 
-## 🌱 I’m currently learning ...
+<!-- ## 🌱 I’m currently learning ...
 - [x] Laravel
-- [ ] TDD
+- [ ] TDD -->
 
 ## 💬 Ask me anything ...
 ### <a href="https://github.com/hasanmisbah/hasanmisbah/issues">Here</a>
 
 
 
-<!-- ## 📫 How to reach me:
+## 📫 How to reach me:
  - [E-mail](mailto:knock@hasanmisbah.com)
  - [Linked in](https://linkedin.com/in/hasanmisbah)
- - [Twitter](https://twitter.com/hasanmisbah01) -->
+ - [Twitter](https://twitter.com/hasanmisbah01)
 
 
 
