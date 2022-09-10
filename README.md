@@ -1,19 +1,32 @@
 ## ⚡ Hi there
 ### Nice to Meet You.
-I'm Hasan Misbah, Web Developer from  Sylhet, Bangladesh.
+I'm Hasan Misbah.
+Just another programmer who forgot to sleep last night
 
-<!-- ## Languages and Tools i use -->
+## Languages and Tools i use
+```js
+{
+    language : ['PHP', 'JavaScript (es6)'],
+    'frameworks/Libraries/CMS' : ['Laravel', 'WordPress', 'Vue.js', 'jQuery'],
+    database : ['MySQL', 'MariaDB', 'firebase'],
+    familiar : {
+        tools : ['Git', 'jira', 'trello', 'Ubuntu (Linux)'],
+        methodology : ['Agile', 'Waterfall', 'RAD'],
+        others : ['OOP']
+    }
+}
+```
 
 
-## 🔭 Language and tools i use
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<!-- ## 🔭 Language and tools i use -->
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
 
 
@@ -51,10 +64,10 @@ I'm Hasan Misbah, Web Developer from  Sylhet, Bangladesh.
 
 
 
-## 📫 How to reach me:
+<!-- ## 📫 How to reach me:
  - [E-mail](mailto:knock@hasanmisbah.com)
  - [Linked in](https://linkedin.com/in/hasanmisbah)
- - [Twitter](https://twitter.com/hasanmisbah01)
+ - [Twitter](https://twitter.com/hasanmisbah01) -->
 
 
 
