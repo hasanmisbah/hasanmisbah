@@ -1,7 +1,6 @@
 ## ⚡ Hi there
 ### Nice to Meet You.
-I'm Hasan Misbah.
-Just another programmer who forgot to sleep last night
+I'm Hasan Misbah. I'm a self-taught programmer and an inquisitive developer who sometimes forgets to take a break from coding. My area of expertise includes using PHP, Laravel, JavaScript, WordPress, and VueJS to create digital products that are both technically sound and visually impressive. I'm always on the lookout for new technologies to explore and innovative ideas to bring to life. My passion for programming comes from my desire to develop solutions that meet the needs of end-users and solve complex problems. I take pride in my ability to develop creative solutions and deliver results that exceed client expectations. If you're interested in learning more about my experience, feel free to reach out!
 
 ## Languages and Tools i use
 ```js
